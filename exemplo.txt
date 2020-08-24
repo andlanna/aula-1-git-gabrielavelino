@@ -4,3 +4,5 @@
 Essa primeira aula tem o intuito de apresentar os conceutos básicos de Git. 
 Ela ainda vai apresentar a utilização do seriço GitHub.
 
+Repositório do exemplo: https://github.com/andrelanna/aula1-oo.git
+
