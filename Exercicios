@@ -1,0 +1,16 @@
+# Exercícios aula 1 
+# Gabriel Avelino Freire - 180100831 
+ 
+1)  
+    a - Git init é o comando para criar um novo repositório. 
+    b - Git clone serve para criar uma cópia do trabalho em um repositório local. 
+    c - Git branch é usado para verificar as branchs existentes, bem como criar e remove-las. 
+    d - Git checkout é parecido com o branch , porém ele pode criar e acessar a branch na mesma hora, como também serve para trocar de branch. 
+            também pode ser usado para desfazer alterações até o último commit. 
+    e - Git fetch server para baixar todos os commits do repositório sem mudar o codigo da maquina. 
+    f - Git pull baixar os arquivos para a máquina. 
+    g - Git add usado para adicionar arquivos. 
+    h - Git commit adicionar arquivos e salvando tudo de uma vez e deixando um comentário. 
+    i - Git push enviar os arquivos da maquina para o servidor remoto. 
+ 
+2) Git pull e Git fetch são comandos aparentemente semelhantes, porém o git pull ele é uma função que acaba executando o git fetch e depois um git merge.
